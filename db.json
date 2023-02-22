@@ -1,0 +1,312 @@
+{
+    "mens": [
+      {
+        "id": 1,
+        "name": "BROWN DENIM CASUAL SHIRT",
+        "price": 1234,
+        "img":"https://img3.junaroad.com/uiproducts/19082423/zoom_0-1672210395.jpg",
+        "category":"shirt",
+        "rating":4,
+        "ratingImage":"⭐⭐⭐⭐"
+      },
+      {
+        "id": 2,
+        "name": "PINK SOLID LONG SLEEVE SHIRT",
+        "price": 1200,
+        "img":"https://img3.junaroad.com/uiproducts/19100324/zoom_0-1672754129.jpg",
+        "category":"shirt",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 3,
+        "name": "BLUE SOLID LONG SLEEVE SHIRT",
+        "price": 1199,
+        "img":"https://img3.junaroad.com/uiproducts/19100329/zoom_0-1672754566.jpg",
+        "category":"shirt",
+        "rating":1,
+        "ratingImage":"⭐"
+      },
+       {
+        "id": 4,
+        "name": "GREY SOLID CASUAL SHIRT",
+        "price": 1099,
+        "img":"https://img3.junaroad.com/uiproducts/18207064/zoom_0-1641458393.jpg",
+        "category":"shirt",
+        "rating":4,
+        "ratingImage":"⭐⭐⭐⭐"
+      },
+      {
+        "id": 5,
+        "name": "NAVY BLUE SOLID JACKET",
+        "price": 2099,
+        "img":"https://img3.junaroad.com/uiproducts/18211500/zoom_0-1641907796.jpg",
+        "category":"jacket",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 6,
+        "name": "MAROON SOLID JACKET",
+        "price": 9099,
+        "img":"https://img3.junaroad.com/uiproducts/18542144/zoom_0-1664208151.jpg",
+        "category":"jacket",
+        "rating":1,
+        "ratingImage":"⭐"
+      },
+      {
+        "id": 7,
+        "name": "GREEN SOLID JACKET",
+        "price": 3999,
+        "img":"https://img3.junaroad.com/uiproducts/18151765/zoom_0-1639030444.jpg",
+        "category":"jacket",
+        "rating":5,
+        "ratingImage":"⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": 8,
+        "name": "GREY SOLID JACKET",
+        "price": 3499,
+        "img":"https://img3.junaroad.com/uiproducts/18650955/zoom_0-1668259916.jpg",
+        "category":"jacket",
+        "rating":4,
+        "ratingImage":"⭐⭐⭐⭐"
+      },
+      {
+        "id": 9,
+        "name": "BOTTLE-GREEN POLO T-SHIRT",
+        "price": 499,
+        "img":"https://img3.junaroad.com/uiproducts/18269727/zoom_0-1645104596.jpg",
+        "category":"tshirt",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 10,
+        "name": "WHITE SOLID T-SHIRT",
+        "price": 299,
+        "img":"https://img3.junaroad.com/uiproducts/18736493/zoom_0-1669822891.jpg",
+        "category":"tshirt",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 11,
+        "name": "MAROON SOLID POLO T-SHIRT",
+        "price": 599,
+        "img":"https://img3.junaroad.com/uiproducts/18736499/zoom_0-1669822890.jpg",
+        "category":"tshirt",
+        "rating":2,
+        "ratingImage":"⭐⭐"
+      },
+      {
+        "id": 12,
+        "name": "BLACK SOLID POLO T-SHIRT",
+        "price": 699,
+        "img":"https://img3.junaroad.com/uiproducts/17652287/zoom_0-1617875606.jpg",
+        "category":"tshirt",
+        "rating":1,
+        "ratingImage":"⭐"
+      },
+      {
+        "id": 13,
+        "name": "DRAWSTRING SOLID JOGGER",
+        "price": 1699,
+        "img":"https://img3.junaroad.com/uiproducts/18532309/zoom_0-1663846545.jpg",
+        "category":"jogger",
+        "rating":5,
+        "ratingImage":"⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": 14,
+        "name": "GREEN SOLID JOGGER",
+        "price": 1299,
+        "img":"https://img3.junaroad.com/uiproducts/18418607/zoom_0-1656495346.jpg",
+        "category":"jogger",
+        "rating":5,
+        "ratingImage":"⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": 15,
+        "name": "BEIGE SOLID JOGGER",
+        "price": 1379,
+        "img":"https://img3.junaroad.com/uiproducts/18722895/zoom_0-1669690612.jpg",
+        "category":"jogger",
+        "rating":1,
+        "ratingImage":"⭐"
+      },
+      {
+        "id": 16,
+        "name": "GREY SOLID JOGGER",
+        "price": 1299,
+        "img":"https://img3.junaroad.com/uiproducts/18743600/zoom_0-1669900770.jpg",
+        "category":"jogger",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 17,
+        "name": "MULTICOLOR SNEAKERS",
+        "price": 999,
+        "img":"https://img3.junaroad.com/uiproducts/18801585/zoom_0-1670513118.jpg",
+        "category":"sneaker",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 18,
+        "name": "LIGHT BLUE LACE UP SNEAKERS",
+        "price": 1199,
+        "img":"https://img3.junaroad.com/uiproducts/18476840/zoom_0-1661362261.jpg",
+        "category":"sneaker",
+        "rating":4,
+        "ratingImage":"⭐⭐⭐⭐"
+      }
+    ],
+    "womens": [
+      {
+        "id": 1,
+        "name": "GREY A-LINE KURTA",
+        "price": 1234,
+        "img":"https://img3.junaroad.com/uiproducts/18736701/zoom_0-1670075563.jpg",
+        "category":"kurta",
+        "rating":4,
+        "ratingImage":"⭐⭐⭐⭐"
+      },
+      {
+        "id": 2,
+        "name": "BLUE SELF DESIGN KURTA",
+        "price": 1200,
+        "img":"https://img3.junaroad.com/uiproducts/18736718/zoom_0-1669987621.jpg",
+        "category":"kurta",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 3,
+        "name": "PRINTED A-LINE KURTA",
+        "price": 1199,
+        "img":"https://img3.junaroad.com/uiproducts/19141798/zoom_0-1673453912.jpg",
+        "category":"kurta",
+        "rating":1,
+        "ratingImage":"⭐"
+      },
+       {
+        "id": 4,
+        "name": "GREY RAYON STRAIGHT KURTA",
+        "price": 1099,
+        "img":"https://img3.junaroad.com/uiproducts/19160640/zoom_0-1673500079.jpg",
+        "category":"kurta",
+        "rating":4,
+        "ratingImage":"⭐⭐⭐⭐"
+      },
+      {
+        "id": 5,
+        "name": "DARK BLUE JEANS",
+        "price": 2099,
+        "img":"https://img3.junaroad.com/uiproducts/18533003/zoom_0-1663863211.jpg",
+        "category":"jeans",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 6,
+        "name": "BLACK JEANS",
+        "price": 9099,
+        "img":"https://img3.junaroad.com/uiproducts/18532999/zoom_0-1663863211.jpg",
+        "category":"jeans",
+        "rating":1,
+        "ratingImage":"⭐"
+      },
+      {
+        "id": 7,
+        "name": "LIGHT BLUE JEANS",
+        "price": 3999,
+        "img":"https://img3.junaroad.com/uiproducts/18533041/zoom_0-1663863211.jpg",
+        "category":"jeans",
+        "rating":5,
+        "ratingImage":"⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": 8,
+        "name": "MULTICOLOUR JEANS",
+        "price": 3499,
+        "img":"https://img3.junaroad.com/uiproducts/18650955/zoom_0-1668259916.jpg",
+        "category":"jeans",
+        "rating":4,
+        "ratingImage":"⭐⭐⭐⭐"
+      },
+      {
+        "id": 9,
+        "name": "SHORT GREEN T-SHIRT",
+        "price": 499,
+        "img":"https://img3.junaroad.com/uiproducts/17739979/zoom_0-1621604696.jpg",
+        "category":"tshirt",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 10,
+        "name": "BLACK SOLID T-SHIRT",
+        "price": 299,
+        "img":"https://img3.junaroad.com/uiproducts/16475541/zoom_0-1565437109.jpg",
+        "category":"tshirt",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      },
+      {
+        "id": 11,
+        "name": "BLUE T-SHIRT",
+        "price": 599,
+        "img":"https://img3.junaroad.com/uiproducts/16979817/zoom_0-1583327077.jpg",
+        "category":"tshirt",
+        "rating":2,
+        "ratingImage":"⭐⭐"
+      },
+      {
+        "id": 12,
+        "name": "SLEVELESS T-SHIRT",
+        "price": 699,
+        "img":"https://img3.junaroad.com/uiproducts/16443253/zoom_0-1563793843.jpg",
+        "category":"tshirt",
+        "rating":1,
+        "ratingImage":"⭐"
+      },
+      {
+        "id": 13,
+        "name": "WHITE SNEAKERS",
+        "price": 1699,
+        "img":"https://img3.junaroad.com/uiproducts/19172544/zoom_0-1673848491.jpg",
+        "category":"sneakers",
+        "rating":5,
+        "ratingImage":"⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": 14,
+        "name": "MULTICOLOR SNEAKERS",
+        "price": 1299,
+        "img":"https://img3.junaroad.com/uiproducts/18293889/zoom_0-1647010708.jpg",
+        "category":"sneaker",
+        "rating":5,
+        "ratingImage":"⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": 15,
+        "name": "ANIMATION SNEAKERS",
+        "price": 1379,
+        "img":"https://img3.junaroad.com/uiproducts/18877972/zoom_0-1671168716.jpg",
+        "category":"sneakers",
+        "rating":4,
+        "ratingImage":"⭐⭐⭐⭐"
+      },
+      {
+        "id": 16,
+        "name": "PINK SOLID SNEAKERS",
+        "price": 1299,
+        "img":"https://img3.junaroad.com/uiproducts/18877968/zoom_0-1671168720.jpg",
+        "category":"sneakers",
+        "rating":3,
+        "ratingImage":"⭐⭐⭐"
+      }
+    ]
+  }
